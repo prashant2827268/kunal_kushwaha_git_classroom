@@ -1,0 +1,33 @@
+I am studying git from kunal kushwaha
+
+Till now I have studied about:-
+1. Terminal or git bash
+2. Terminal commands
+2. Git commands
+
+----------------------------------
+Git Bash commands:-
+1. To make a folder
+    mkdir <folder_name>
+2. To list the content inside the folder
+    ls
+3. To get the path of current working directory
+    pwd
+4. To change directory
+    cd <folder_name>
+5. To move one level up from current directory
+    cd ..
+6. To create a new file
+    touch <filename_with_extension>
+7. To delete the file
+    rm <file_name>
+8. To check the hidden files
+    ls -la
+9. To delete the folder
+    rm -r <folder_name>
+10. To clear the Terminal
+     clear
+11. To see the file content in Terminal
+    cat <file_name>
+
+

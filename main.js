@@ -1,0 +1,1 @@
+console.log("this is the first commit on master branch after two commits on feature branch")

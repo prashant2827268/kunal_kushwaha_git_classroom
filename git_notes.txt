@@ -30,4 +30,8 @@ Git Bash commands:-
 11. To see the file content in Terminal
     cat <file_name>
 
+# Git commands:-
+1. git init : To initialize a git repository
+2. git add <filename> : To start tracking the file.This puts the file in staging area
+
 
